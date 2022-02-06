@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-fakeshop/static/css/main.073c9b0a.css",
-    "main.js": "/react-fakeshop/static/js/main.1fb597ff.js",
-    "static/js/787.c3f7c79c.chunk.js": "/react-fakeshop/static/js/787.c3f7c79c.chunk.js",
-    "static/media/logo.svg": "/react-fakeshop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-fakeshop/static/css/main.621a4839.css",
+    "main.js": "/react-fakeshop/static/js/main.2babe1b6.js",
     "index.html": "/react-fakeshop/index.html",
-    "main.073c9b0a.css.map": "/react-fakeshop/static/css/main.073c9b0a.css.map",
-    "main.1fb597ff.js.map": "/react-fakeshop/static/js/main.1fb597ff.js.map",
-    "787.c3f7c79c.chunk.js.map": "/react-fakeshop/static/js/787.c3f7c79c.chunk.js.map"
+    "main.621a4839.css.map": "/react-fakeshop/static/css/main.621a4839.css.map",
+    "main.2babe1b6.js.map": "/react-fakeshop/static/js/main.2babe1b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1fb597ff.js"
+    "static/css/main.621a4839.css",
+    "static/js/main.2babe1b6.js"
   ]
 }
